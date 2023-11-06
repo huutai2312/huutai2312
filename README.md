@@ -1,5 +1,6 @@
 # 💫About Me :
 Hi 👋, I'm Huu Tai (NHT)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD204F&random=false&width=435&lines=N__________H__________T)](https://git.io/typing-svg)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nht22331122) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCKiQaYTo4rC5tkNAMG_wQ0A) 
