@@ -14,7 +14,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=huutai2312&icon=2&color=0)](https://visitcount.itsvg.in)
-
+---
+https://github-readme-activity-graph.vercel.app/graph?username=huutai2312&custom_title=Al%20Siam%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true
 ## 💰You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nht2312) 
 
