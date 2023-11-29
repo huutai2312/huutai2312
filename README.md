@@ -21,7 +21,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
 
 ---
-<div align="center">
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nht2312)</div>
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&align=center)](https://buymeacoffee.com/nht2312)
 
 
