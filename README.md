@@ -15,7 +15,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=huutai2312&icon=2&color=0)](https://visitcount.itsvg.in)
 ---
-
+<img  src="https://github-readme-stats.vercel.app/api?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranlehuyhoang&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+---
 <img  src="https://github-readme-stats.vercel.app/api?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 ---
