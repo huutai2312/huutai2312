@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD204F&random=false&width=1000&size=32&lines=Hi+%F0%9F%91%8B%2C+I'm+Huu+Tai+(NHT);N__________H__________T)]([https://git.io/typing-svg](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD204F&random=false&width=1000&size=32&lines=Hi+[%F0%9F%91%8B%2C](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)+I'm+Huu+Tai+(NHT);N__________H__________T)]([https://git.io/typing-svg])
 
 ---
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nht22331122) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCKiQaYTo4rC5tkNAMG_wQ0A) 
@@ -21,7 +21,7 @@
 
 ---
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>div>
+<img src="https://github-readme-stats.vercel.app/api?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
 
 ---
 ## 💰You can help me by Donating
