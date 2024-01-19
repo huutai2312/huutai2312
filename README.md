@@ -11,13 +11,6 @@
 </p>
 
 ---
-<div align=center>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=huutai2312&theme=synthwave&hide_border=true&border_radius=8&date_format=j%2Fn%5B%2FY%5D&card_width=500" alt="GitHub Streak" /></a></div>
-
----
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=huutai2312&custom_title=GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
----
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
 
