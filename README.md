@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CD204F&random=false&width=1000&size=32&lines=Hi+%F0%9F%91%8B%2C+I'm+Huu+Tai+(NHT);N__________H__________T)]([https://git.io/typing-svg])
 ---
-Repositories: 30 Public | 20 Private
+Repositories: 30 Public | 22 Private
 ---
 [![](https://visitcount.itsvg.in/api?id=huutai2312&icon=2&color=0)](https://visitcount.itsvg.in) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nht22331122) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCKiQaYTo4rC5tkNAMG_wQ0A)
 ---
