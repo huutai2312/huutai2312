@@ -18,5 +18,3 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&align=center)](https://buymeacoffee.com/nht2312)
 
 
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover !important; background-position: center; width: 100vw; opacity: 1; background: url('https://raw.githubusercontent.com/hunghg255/hunghg255/master/img/bg.webp') no-repeat;]{x0000}$}
