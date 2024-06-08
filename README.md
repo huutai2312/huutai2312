@@ -19,4 +19,4 @@
 
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover !important; background-position: center; width: 100vw; opacity: 1; background: url('https://imgur.com/xkc5rwS') no-repeat;]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; background-size: cover !important; background-position: center; width: 100vw; opacity: 1; background: url('https://i.imgur.com/xkc5rwS.png') no-repeat;]{x0000}$}
