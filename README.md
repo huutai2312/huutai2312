@@ -11,7 +11,9 @@
 
 ---
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
+<img src="https://github-readme-stats.vercel.app/api?username=huutai2312&show_icons=true&theme=onedark" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br>
+<img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutai2312&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></div>
 
 ---
 
