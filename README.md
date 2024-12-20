@@ -10,9 +10,13 @@
 </p>
 
 ---
-<div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huutai2312&theme=apprentice)
-</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huutai2312&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huutai2312&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huutai2312&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huutai2312&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huutai2312&theme=nord_dark&utcOffset=8)
+
 ---
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&align=center)](https://buymeacoffee.com/nht2312)
