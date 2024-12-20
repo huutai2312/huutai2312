@@ -10,7 +10,7 @@
 </p>
 
 ---
-<div class="text-center">
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huutai2312&theme=apprentice)
 </div>
 ---
