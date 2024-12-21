@@ -65,7 +65,7 @@
 ---
 
 ## Skills
-
+<p align="center">
 | **Category**             | **Description**                                                                                                         |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | **Programming Languages** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="24" height="24" alt="PHP" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" height="24" alt="TypeScript" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="24" height="24" alt="C" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="24" height="24" alt="C++" /> |
@@ -74,6 +74,7 @@
 | **Databases**             | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="24" height="24" alt="MySQL" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="24" height="24" alt="PostgreSQL" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="24" height="24" alt="MongoDB" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="24" height="24" alt="Firebase" /> |
 | **DevOps & Cloud**        | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="24" height="24" alt="AWS" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="24" height="24" alt="DigitalOcean" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="24" height="24" alt="Google Cloud" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="24" height="24" alt="Render" /> |
 | **Other Tools**           | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="24" height="24" alt="Git" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="24" height="24" alt="MacOS" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="24" height="24" alt="Linux" /> |
+</p>
 
 ---
 
