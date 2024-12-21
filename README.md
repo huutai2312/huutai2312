@@ -64,6 +64,19 @@
 
 ---
 
+## Skills
+
+| **Category**             | **Description**                                                                                                         |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages** | ![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg) ![PHP](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg) ![TypeScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg) ![C](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg) ![C++](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg) |
+| **Frontend Development**  | ![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg) ![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg) ![Sass](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg) ![Bootstrap](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg) ![TailwindCSS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg) ![JQuery](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg) |
+| **Backend Development**   | **Specialized in Laravel** <br> ![Laravel](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg) ![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg) ![Fast API](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg) |
+| **Databases**             | ![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg) ![PostgreSQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg) ![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg) ![Firebase](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg) |
+| **DevOps & Cloud**        | ![AWS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg) ![Digital Ocean](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg) ![Google Cloud](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg) ![Render](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg) |
+| **Other Tools**           | ![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg) ![MacOS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg) ![Linux](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg) |
+
+---
+
 ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=huutai2312)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huutai2312&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huutai2312&theme=nord_dark)
