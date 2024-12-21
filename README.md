@@ -11,6 +11,7 @@
 
 ---
 
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=huutai2312)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huutai2312&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huutai2312&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huutai2312&theme=nord_dark)
